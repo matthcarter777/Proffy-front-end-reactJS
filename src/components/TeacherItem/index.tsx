@@ -15,10 +15,10 @@ function TeacherItem() {
             </div>
          </header>
          <p>
-           texto
+           Tente mover o mundo
            <br />
            <br />
-           Desenvolvedor full-stack apaixonado por tecnologia e desafios em constante aperfeiçoamento.
+           o primeiro passo será mover a si mesmo.
          </p>
 
          <footer>

@@ -10,11 +10,11 @@
   background: var(--color-primary);
 }
 
-.logo-container {
+.logo-container img{
   height: 10rem;
 }
 
-.logo-image {
+.hero-image {
   width: 100%;
 }
 
@@ -91,7 +91,7 @@
   margin-left: 0.8rem;
 }
 
-@media (min-width: 1100px){
+@media (min-width: 1100px) {
   #page-landing-content {
     max-width: 1100px;
 
@@ -118,9 +118,9 @@
     height: 100%;
   }
 
-  .logo-image {
+  .hero-image {
     grid-area: hero;
-    justify-content: end;
+    justify-self: end;
   }
   .buttons-container {
     grid-area: buttons;
